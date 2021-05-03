@@ -1,0 +1,26 @@
+h1
+{
+	font-family: 'Lobster', cursive;
+	text-decoration: underline;
+	text-align: center;
+	color: blue; 
+	font-size: 50px
+}
+
+header
+{
+	text-align: right;
+}
+h2
+{
+	font-family: 'Lobster', cursive;
+	font-family: 'Montserrat', sans-serif;
+	color: orange;
+	border: 4px red double; box-shadow: 3px 3px 3px blue;width:70%
+}
+body
+{
+	background-image: url("../fde.jpeg");
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@100&display=swap');

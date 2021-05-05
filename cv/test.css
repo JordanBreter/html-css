@@ -20,7 +20,15 @@ h2
 }
 body
 {
-	background-image: url("../fde.jpeg");
+	background-image: url("photo/fde.jpeg");
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@100&display=swap');
+
+@media screen and (max-width: 1024px)
+{
+	h1
+	{
+		color: red
+	}
+}

@@ -24,9 +24,6 @@ body
 	background-image: url("photo/fde.jpeg");
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
-
-
 @media screen and (max-width: 700px)
 {
 	h1,h2

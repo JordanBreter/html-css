@@ -11,6 +11,7 @@ header
 {
 	text-align: right;
 }
+
 h2
 {
 	font-family: 'Lobster', cursive;
@@ -19,6 +20,7 @@ h2
 	border: 4px red double; box-shadow: 3px 3px 3px blue;width:90%;
 	text-align: center;
 }
+
 body
 {
 	background-image: url("photo/fde.jpeg");
@@ -38,12 +40,14 @@ body
 	}
 	
 }
+
 #compétences,#expériences,#formation {
 	
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
 }
+
 #listes1,#listes2,#listes3 {
 
 	display: flex;
